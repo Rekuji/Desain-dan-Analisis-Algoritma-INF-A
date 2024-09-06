@@ -1,0 +1,10 @@
+4. Menghitung Luas Jajar Genjang
+(panjang = 5, tinggi = 3) 
+
+Algoritma:
+1.Kalikan panjang dengan tinggi
+2.Tampilkan hasil perkalian
+
+Pseudocode:
+1.Luas <- panjang * tinggi
+2.Print Luas.

@@ -1,0 +1,13 @@
+5. Tentukan algoritma dan pseudocode volume tabung (jari-jari = 3, tinggi = 5) 
+
+Algoritma:
+1.Kalikan jari-jari dengan jari-jari
+2.Kalikan perkalian 1 dengan tinggi 
+3.Kalikan perkalian 2 dengan pi 
+4.Tampilkan 3.
+
+Pseudocode:
+1.Kali1 <- jari-jari * jari-jari
+2.Kali2 <- Kali1 * tinggi
+3.Kali3 < Kali2 * pi
+4.Print Kali3.

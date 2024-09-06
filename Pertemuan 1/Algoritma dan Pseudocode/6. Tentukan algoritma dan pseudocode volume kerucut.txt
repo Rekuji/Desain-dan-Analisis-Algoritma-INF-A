@@ -1,0 +1,18 @@
+6. Tentukan algoritma dan pseudocode volume kerucut (diameter = 5, tinggi = 4)
+
+Algoritma:
+1.	Ubah diameter menjadi jari-jari
+2.	Kalikan jari-jari dengan jari-jari 
+3.	Kalikan perkalian 2 dengan tinggi 
+4.	Kalikan perkalian 3 dengan pi 
+5.	Bagi perkalian 4 dengan 3
+6.	Tampilkan pembagian 5.
+
+Pseudocode:
+1.	jari-jari <- diameter / 2
+2.	Kali1 <- jari-jari * jari-jari 
+3.	Kali2 <- Kali1 * tinggi
+4.	Kali3 <- Kali2 * pi
+5.	Bagi <- Kali3 / 3
+6.	Print Bagi.
+

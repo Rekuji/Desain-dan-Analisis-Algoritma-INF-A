@@ -1,0 +1,15 @@
+3. Hitung luas dari sebuah Segitiga
+
+Diketahui sebuah segitiga memiliki ukuran sebagai berikut: 
+Alas=25
+Tinggi=30
+
+Algoritma:
+1.Kalikan Alas dengan Tinggi
+2.Bagi hasil perkalian dengan 2
+3.Tampilkan hasil pembagian.
+
+Pseudocode:
+1.Kali <- alas * tinggi
+2.Bagi <- Kali / 2
+3.Print Bagi
