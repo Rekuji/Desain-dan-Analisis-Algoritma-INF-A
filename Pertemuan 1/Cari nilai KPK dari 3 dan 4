@@ -7,6 +7,7 @@ Algoritma:
 1. Tambahkan bilangan 4 dengan dirinya sendiri secara bertahap.
 2. Untuk setiap kelipatan, periksa apakah kelipatan tersebut dapat dibagi habis oleh 3 dan 4.
 3. Kelipatan pertama yang memenuhi kondisi tersebut adalah KPK dari 3 dan 4.
+4. Tampilkan KPKnya.
 
 Pseudocode:
 
